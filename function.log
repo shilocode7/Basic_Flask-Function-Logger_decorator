@@ -1,0 +1,11 @@
+2023-03-13 10:27:31,766 - Function my_function called with args (5, 5) and kwargs {}
+2023-03-13 10:30:42,420 - Function my_function called with args (5, 5) and kwargs {}
+2023-03-13 10:36:31,417 - Function my_function called with args (5, 5) and kwargs {}
+2023-03-13 10:41:06,309 - Function index called with args () and kwargs {}
+2023-03-13 10:41:06,310 - 127.0.0.1 - - [13/Mar/2023 10:41:06] "GET / HTTP/1.1" 200 -
+2023-03-13 10:41:06,645 - 127.0.0.1 - - [13/Mar/2023 10:41:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-03-13 10:41:11,281 - Function index called with args () and kwargs {}
+2023-03-13 10:41:11,281 - 127.0.0.1 - - [13/Mar/2023 10:41:11] "GET / HTTP/1.1" 200 -
+2023-03-13 10:41:20,477 - 127.0.0.1 - - [13/Mar/2023 10:41:20] "[33mGET /add HTTP/1.1[0m" 404 -
+2023-03-13 10:41:36,880 - Function add called with args () and kwargs {'x': 5, 'y': 5}
+2023-03-13 10:41:36,880 - 127.0.0.1 - - [13/Mar/2023 10:41:36] "GET /add/5/5 HTTP/1.1" 200 -
