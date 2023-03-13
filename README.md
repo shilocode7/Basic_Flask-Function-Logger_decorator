@@ -1,4 +1,4 @@
-# Flask-Function-Logger_decorator
+# Basic-Flask-Function-Logger_decorator
 This is a simple Flask application with a function logger that logs function calls to a file named function.log.
 ## Prerequisites
 * Python 3.x
